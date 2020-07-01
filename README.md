@@ -10,3 +10,5 @@ juan sebastian gallego carvajal cc 1037597558
 kamylo andres castrillon ortiz cc :1152198152
 
 se adjunta el link del video en youtube y la base de datos en .sql
+
+https://youtu.be/AaKQoTfyDNE
